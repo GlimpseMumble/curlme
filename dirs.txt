@@ -1,0 +1,11 @@
+/Library/Application Support/Google/Chrome/
+/Library/Caches/Google/Chrome/
+/Library/Application Support/Google/Chrome/Default/Extensions/
+/Library/Application Support/Google/Chrome/Default/Network/
+/Library/Application Support/Google/Chrome/Crash Reports/
+/Library/Managed Preferences/
+/Library/Preferences/com.jamf.connect.plist
+/usr/local/bin/jamf
+/var/log/jamf.log
+/Library/Application Support/JAMF/
+/Library/Preferences/com.jamfsoftware.jamf.plist
